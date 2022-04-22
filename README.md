@@ -1,5 +1,3 @@
-Add a subheading.png
-
 - 👋 Hi, I’m @ucskyship
 - 👀 I’m interested in coding, music and technology at large
 - 🌱 I’m currently learning Java, MySQL, Workbench
