@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ucskyship
-- 👀 I’m interested in coding, music and technology at large
-- 🌱 I’m currently learning Java, MySQL, Workbench
+- 👀 I’m interested in coding, and technology at large
+- 🌱 I’m currently learning Java, Python, Workbench
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chat.with.ucjhay@gmail.com / +2348133856783 Whatsapp & Telegram
 
